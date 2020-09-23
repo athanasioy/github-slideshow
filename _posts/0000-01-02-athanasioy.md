@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+At last, something BETTER
 Starting to become a GitHubber
